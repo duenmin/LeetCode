@@ -1,0 +1,2 @@
+# LeetCode
+some leetcode subject
